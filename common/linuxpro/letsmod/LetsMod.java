@@ -1,7 +1,8 @@
-package com.pahimar.letsmod;
+package linuxpro.letsmod;
 
-import com.pahimar.letsmod.lib.Reference;
-import com.pahimar.letsmod.proxy.CommonProxy;
+import linuxpro.letsmod.lib.Reference;
+import linuxpro.letsmod.proxy.CommonProxy;
+
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -16,7 +17,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
  * 
  * LetsMod
  * 
- * @author pahimar
+ * @author linuxpro
  * @license Lesser GNU Public License v3 (http://www.gnu.org/licenses/lgpl.html)
  * 
  */

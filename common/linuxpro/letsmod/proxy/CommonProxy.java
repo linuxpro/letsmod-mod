@@ -1,4 +1,4 @@
-package com.pahimar.letsmod.proxy;
+package linuxpro.letsmod.proxy;
 
 /**
  * LetsMod

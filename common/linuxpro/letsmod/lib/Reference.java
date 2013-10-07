@@ -1,4 +1,4 @@
-package com.pahimar.letsmod.lib;
+package linuxpro.letsmod.lib;
 
 /**
  * LetsMod
